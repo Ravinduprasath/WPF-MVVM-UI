@@ -1,5 +1,5 @@
-# Windows Presentation Foundation .Net Core 3.1 <hr/>
-# Using MVVM Architecture <hr/><br/>
+# Windows Presentation Foundation .Net Core 3.1<br/>
+# Using MVVM Architecture<hr/><br/>
 <h4>NuGet Packages</h4>
 1) Caliburn.Micro 4.0.173 - For Mvvm
 2) MaterialDesignThemes 4.1.0 - For Material Design<hr/></br>
